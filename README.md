@@ -6,4 +6,8 @@ here goes my changes
 
 spent the whole nignt learning git
 
+## Local Development
+
+1. Open indes.html in browser
+
 
